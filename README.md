@@ -1,7 +1,7 @@
 # computer-graphics
 3D programming with Java and OpenGL
 
-## How to Play
+### How to Play
 key Listener
 
 - s - start the game
